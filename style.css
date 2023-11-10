@@ -1,0 +1,147 @@
+:root {
+ --background: #1a1a2e;
+ --color: #ffffff;
+ --primary-color: #0f3460;
+}
+
+* {
+ box-sizing: border-box;
+}
+
+html {
+ scroll-behavior: smooth;
+}
+
+body {
+ margin: 0;
+ box-sizing: border-box;
+ font-family: "poppins";
+ background: var(--background);
+ color: var(--color);
+ letter-spacing: 1px;
+ transition: background 0.2s ease;
+ -webkit-transition: background 0.2s ease;
+ -moz-transition: background 0.2s ease;
+ -ms-transition: background 0.2s ease;
+ -o-transition: background 0.2s ease;
+}
+.text {
+ text-align: center;
+ color: var(--color);
+}
+a {
+ text-decoration: none;
+ text-align: center;
+ font-size: 3rem;
+ font-weight: 800;
+}
+
+h1 {
+ font-size: 2.5rem;
+ text-align: center;
+}
+
+.container {
+ margin: 2rem;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 90vh;
+ position: relative;
+}
+
+.log-container {
+ position: absolute;
+ width: 30rem;
+}
+
+.form-container {
+ border: 1px solid hsla(0, 0%, 65%, 0.158);
+ box-shadow: 0 0 30px 1px rgba(0, 0, 0, 0.8);
+ border-radius: 10px;
+ backdrop-filter: blur(20px);
+ -webkit-border-radius: 10px;
+ -moz-border-radius: 10px;
+ -ms-border-radius: 10px;
+ -o-border-radius: 10px;
+ padding: 2rem;
+ z-index: 99;
+ transition: all 0.2s;
+}
+.form-container:hover {
+ transform: scale(0.9);
+}
+
+.circle {
+ width: 8rem;
+ height: 8rem;
+ background: var(--primary-color);
+ border-radius: 50%;
+ -webkit-border-radius: 50%;
+ -moz-border-radius: 50%;
+ -ms-border-radius: 50%;
+ -o-border-radius: 50%;
+ position: absolute;
+}
+
+.illustration {
+ background-size: cover;
+ position: absolute;
+ top: -50%;
+ right: -2px;
+ width: 100%;
+ height: auto;
+}
+
+.circle-one {
+ width: 8rem;
+ height: 8rem;
+ background: var(--primary-color);
+ border-radius: 50%;
+ -webkit-border-radius: 50%;
+ -moz-border-radius: 50%;
+ -ms-border-radius: 50%;
+ -o-border-radius: 50%;
+ position: absolute;
+}
+
+.opacity {
+ opacity: 0.5;
+}
+.nav {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.theme-btn-container {
+ border: 2px solid rgb(0, 0, 0);
+ width: 100vw;
+ padding: 1px;
+ margin: 0 auto;
+ display: flex;
+ align-items: center;
+ position: absolute;
+ justify-content: center;
+ justify-content: space-between;
+ top: 0;
+}
+
+.theme-btn {
+ cursor: pointer;
+}
+@media only screen and (max-width: 480px) {
+ .illustration {
+  height: 100%;
+  width: 100%;
+  top: -2px;
+ }
+ .container {
+  margin: 5rem;
+ }
+ .log-container {
+  width: 19rem;
+ }
+ .text {
+  font-size: 1.8rem;
+ }
+}
