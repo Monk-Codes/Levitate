@@ -1,4 +1,4 @@
-# Levitate
+![Screenshot (21)](https://github.com/Monk-Codes/Levitate/assets/84877191/aa40d40a-79da-4783-9236-a1a2d84ea8eb)# Levitate
 ## Meditation Webpage
 - [Live Demo](https://levitate-budhha.netlify.app/)
 <br/>
@@ -6,8 +6,7 @@
   <a href="https://github.com/MonkCodes/Levitate">
   </a>
   <h3 align="center">Levitate</h3>
-  ![logo](img/Screenshot (21).png)
-
+![logo](https://imgur.com/X8aZ3pN.jpg)
   <p align="center">
     Meditation Webpage
     <br/>
