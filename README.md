@@ -3,10 +3,10 @@
 - [Live Demo](https://levitate-budhha.netlify.app/)
 <br/>
 <p align="center">
+<img src="logo.png" alt="image" width="500" height="300">
   <a href="https://github.com/MonkCodes/Levitate">
   </a>
   <h3 align="center">Levitate</h3>
-  ![logo](https://github.com/Monk-Codes/Levitate/assets/84877191/e51cb017-8d9c-4ea3-9cfb-7d9aca592ee1)
 
   <p align="center">
     Meditation Webpage
