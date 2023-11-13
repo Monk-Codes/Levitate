@@ -1,4 +1,4 @@
-![Screenshot (21)](https://github.com/Monk-Codes/Levitate/assets/84877191/aa40d40a-79da-4783-9236-a1a2d84ea8eb)# Levitate
+# Levitate
 ## Meditation Webpage
 - [Live Demo](https://levitate-budhha.netlify.app/)
 <br/>
@@ -6,7 +6,8 @@
   <a href="https://github.com/MonkCodes/Levitate">
   </a>
   <h3 align="center">Levitate</h3>
-![logo](https://imgur.com/X8aZ3pN.jpg)
+  ![logo](https://github.com/Monk-Codes/Levitate/assets/84877191/e51cb017-8d9c-4ea3-9cfb-7d9aca592ee1)
+
   <p align="center">
     Meditation Webpage
     <br/>
@@ -30,13 +31,12 @@
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
 * [Roadmap](#roadmap)
-* [Contributing](#contributing)
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
-![Screen Shot](https://imgur.com/WeBY8lz)
+![Screenshot (21)](https://github.com/Monk-Codes/Levitate/assets/84877191/aa40d40a-79da-4783-9236-a1a2d84ea8eb)
 
 Levitate is a meditation page with soothing audio embeded on every mode.
 Sit and Relax your Body & Soul with Buddha
