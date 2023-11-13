@@ -6,6 +6,7 @@
   <a href="https://github.com/MonkCodes/Levitate">
   </a>
   <h3 align="center">Levitate</h3>
+  ![logo](img/Screenshot (21).png)
 
   <p align="center">
     Meditation Webpage
