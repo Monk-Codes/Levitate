@@ -4,7 +4,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/MonkCodes/Levitate">
-    <img src="https://imgur.com/X8aZ3pN" alt="Logo" width="80" height="80">
+    ![My Remote Image](https://imgur.com/X8aZ3pN)
   </a>
 
   <h3 align="center">Levitate</h3>
