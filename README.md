@@ -4,7 +4,7 @@
 <br/>
 <p align="center">
 <img src="logo.png" alt="image" width="500" height="300">
-  <a href="https://github.com/MonkCodes/Levitate">
+  <a href="https://github.com/Monk-Codes/Levitate">
   </a>
   <h3 align="center">Levitate</h3>
 
@@ -12,18 +12,18 @@
     Meditation Webpage
     <br/>
     <br/>
-    <a href="https://github.com/MonkCodes/Levitate"><strong>Meditate with Buddha »</strong></a>
+    <a href="https://github.com/Monk-Codes/Levitate"><strong>Meditate with Buddha »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/MonkCodes/Levitate">View Demo</a>
+    <a href="https://github.com/Monk-Codes/Levitate">View Demo</a>
     .
-    <a href="https://github.com/MonkCodes/Levitate/issues">Report Bug</a>
+    <a href="https://github.com/Monk-Codes/Levitate/issues">Report Bug</a>
     .
-    <a href="https://github.com/MonkCodes/Levitate/issues">Request Feature</a>
+    <a href="https://github.com/Monk-Codes/Levitate/issues">Request Feature</a>
   </p>
 </p>
 
-![Forks](https://img.shields.io/github/forks/MonkCodes/Levitate?style=social) ![Stargazers](https://img.shields.io/github/stars/MonkCodes/Levitate?style=social) 
+![Forks](https://img.shields.io/github/forks/Monk-Codes/Levitate?style=social) ![Stargazers](https://img.shields.io/github/stars/Monk-Codes/Levitate?style=social) 
 
 ## Table Of Contents
 
@@ -61,7 +61,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Roadmap
 
-See the [open issues](https://github.com/MonkCodes//issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Monk-Codes//issues) for a list of proposed features (and known issues).
 
 ### Creating A Pull Request
 
